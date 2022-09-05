@@ -6,4 +6,4 @@ Kumpulkan link repo tsb ke LMS!
 
 ## Screenshot Hasil Praktikum
 
-![Hasil Praktikum](screenshots/Praktikum_01_Mobile.jpeg)
+![Hasil Praktikum](Praktikum_01_Mobile.jpeg)
